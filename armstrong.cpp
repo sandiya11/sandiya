@@ -7,6 +7,7 @@ int main()
 	cout<<"Enter the number :\n ";
 	cin>>n;
 	 m=n;
+	if (n<=10000)
 	while(m!=0)
 	{
 		rem=m%10;
