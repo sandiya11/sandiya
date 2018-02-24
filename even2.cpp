@@ -14,7 +14,7 @@ for (num = m; num <= n; num++)
 
                if (num % 2 == 0)
 
-                cout<<"\nthe odd number is\n"<<num;
+                cout<<"\nthe even number is\n"<<num;
 
          }
 
