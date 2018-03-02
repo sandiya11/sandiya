@@ -2,7 +2,7 @@
 using namespace std;
 int main() 
 {
-	int n1,n2,n,;
+	int n1,n2,n;
 	cout<<"enter the number:\n";
 	cin>>n1>>n2;
 	n=n1+n2;
