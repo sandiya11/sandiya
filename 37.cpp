@@ -3,15 +3,15 @@ using namespace std;
 
 int main()
 {
-	int a,b,c;
+	int n1,n2,n;
 	cout<<"enter the number:\n";
-	cin>>a>>b;
+	cin>>n1>>n2;
 	cout<<"before swappig"<<endl;
-	cout<<"a="<<a<<endl<<"b="<<b<<endl;
-	c=a;
-	a=b;
-	b=c;
+	cout<<"n1="<<n1<<endl<<"n2="<<n2<<endl;
+	n=n1;
+	n1=n2;
+	n2=n;
 	cout<<"after swapping"<<endl;
-	cout<<"a="<<a<<endl<<"b="<<b<<endl;
+	cout<<"n1="<<n1<<endl<<"n2="<<n2<<endl;
 	return 0;
 }
