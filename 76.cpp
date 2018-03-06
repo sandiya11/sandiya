@@ -19,7 +19,7 @@ int main()
         }
         else
         {
-        cout<<"not composite number"
+        cout<<"not composite number";
         }
         return 0;
 }
