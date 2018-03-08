@@ -8,7 +8,7 @@ int main()
 	a=a^b;
 	b=a^b;
 	a=a^b;
-	cout<<"after wapping"<<endl;
+	cout<<"after swapping"<<endl;
 	cout<<a<<endl<<b<<endl;
   return 0;
 }
