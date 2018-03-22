@@ -3,7 +3,7 @@ using namespace std;
 int main() 
 {
 	int a[20],i,n,max,min;
-	cout<<"enter size array"<<endl;
+	cout<<"enter array size"<<endl;
 	cin>>n;
 	cout<<"array elements are"<<endl;
 	for(i=0;i<n;i++)
