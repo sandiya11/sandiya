@@ -7,7 +7,7 @@ int main()
 	cin>>r;
 	cout<<"enter two numbers"<<endl;
 	cin>>n>>m;
-	if(r>n && r<m)
+	if(r>=n && r<=m)
 	{
 	cout<<"yes";
 	}
