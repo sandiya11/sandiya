@@ -6,5 +6,4 @@ int main()
 	cin>>c;
 	k=c+273;
 	cout<<k;
-	return 0;
 }
