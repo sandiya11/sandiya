@@ -8,5 +8,5 @@ int n;
 n=strlen(s);
 if(n<=100000)
 cin>>s;
-cout<<s<<" "<<"answer";
+cout<<s<<" "<<"Answer";
 }
